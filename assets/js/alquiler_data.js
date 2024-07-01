@@ -45,7 +45,7 @@ const propiedades_alquiler = [
     },
     {
       nombre: "Hotel estudio",
-      src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcl%2Fdepartamento-estudio-santiago-santiago1.es.html&psig=AOvVaw2vL1PGij0dv8mXzm-Adh8X&ust=1719956552792000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjg_tLnhocDFQAAAAAdAAAAABAE",
+      src: "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbmRvfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       descripcion: "Hogar y estudio todo en uno",
       ubicacion: "República 502, Santiago Centro",
       habitaciones: 2,
@@ -56,7 +56,7 @@ const propiedades_alquiler = [
     },
     {
       nombre: "Casa Urbana",
-      src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bienesonline.cl%2Fbuscar-casa-urbana-concepcion.php&psig=AOvVaw1LOW-wxI-RCtXOfqSAlid0&ust=1719956741615000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDTtKjohocDFQAAAAAdAAAAABAE",
+      src: "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbmRvfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       descripcion: "Casa en zona residencial, rodeada de áreas verdes y familias",
       ubicacion: "Calbuco 740, Villa Alemana, Concepción",
       habitaciones: 3,
